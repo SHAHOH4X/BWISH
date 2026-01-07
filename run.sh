@@ -5,7 +5,7 @@ G='\033[0;32m'
 B='\033[0;34m'
 C='\033[0;36m'
 N='\033[0m'
-. <(curl -sLo- "https://raw.githubusercontent.com/RUR999/spinner/refs/heads/main/spin.sh")
+. <(curl -sLo- "https://raw.githubusercontent.com/SHAHOH4X/SPINNING/refs/heads/main/spin.sh")
 
 declare -a banner_lines=(
 "██████╗    ██╗       ██╗██╗ ██████╗██╗  ██╗"
